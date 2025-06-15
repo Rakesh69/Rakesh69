@@ -14,8 +14,5 @@
 - DevOps: Docker, AWS, GitHub Actions
 
 ## 📊 GitHub Stats
-
-![Your github stats](https://github-readme-stats.vercel.app/api?username=Rakesh69&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=radical)
 
