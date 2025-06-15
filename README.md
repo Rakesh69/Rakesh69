@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Rakesh Kaklotar
 
-<!--
-**Rakesh69/Rakesh69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | 9+ years of experience
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ReactJS, NextJS, NestJS, Angular, .NET Core
+- 🌱 I’m currently learning advanced WebRTC & AI integrations
+- 💬 Ask me about full-stack development, real-time apps, and SaaS architecture
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rakesh-kaklotar/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Angular, Next.js
+- Backend: .NET Core, NestJS, Node.js, Firebase
+- Database: PostgreSQL, MySQL, MongoDB
+- DevOps: Docker, AWS, GitHub Actions
+
+## 📊 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=Rakesh69&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=radical)
+
