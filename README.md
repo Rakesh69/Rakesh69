@@ -1,49 +1,86 @@
-# Hi there 👋, I'm Rakesh Kaklotar
+# 👋 Hi, I'm Rakesh Kaklotar  
 
-## 🚀 Full Stack Developer | 9+ years of experience
+## 🚀 Senior Full Stack Developer | AWS Certified | 10+ Years Experience  
 
-- 🔭 I’m currently working on ReactJS, NextJS, NestJS, Angular, .NET Core
-- 🌱 I’m currently learning advanced WebRTC & AI integrations
-- 💬 Ask me about full-stack development, real-time apps, and SaaS architecture
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rakesh-kaklotar/)
+💡 I design and build **scalable SaaS platforms, real-time applications, and cloud-native systems** using modern web technologies.  
+⚡ Strong focus on **performance, clean architecture, and production-ready code**.  
 
-## 🛠 Tech Stack
-- Frontend: React, Angular, Next.js
-- Backend: .NET Core, NestJS, Node.js, Firebase
-- Database: PostgreSQL, MySQL, MongoDB
-- DevOps: Docker, AWS, GitHub Actions
+---
 
-## 🛠️ Languages & Tools
+## 🏆 Certifications  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  
-  <!-- Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+<a href="https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<a href="https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
-</p>
+📜 View all certifications:  
+👉 [https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url ](https://www.credly.com/users/rakesh-kaklotar.b311503c/badges#credly) 
+
+---
+
+## 🌐 Portfolio  
+
+🚀 Explore my work:  
+👉 https://rakesh.kaklotar.com/  
+
+---
+
+## 💼 What I Do  
+
+- 🔹 Build **end-to-end SaaS applications**  
+- 🔹 Develop **real-time systems (WebRTC, chat, streaming)**  
+- 🔹 Design **scalable backend architectures (NestJS, .NET Core)**  
+- 🔹 Optimize apps for **performance & cloud deployment (AWS, Docker)**  
+- 🔹 Create **multi-platform apps (Web + Mobile + Desktop)**  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Frontend  
+- React.js, Next.js, Angular  
+- Tailwind CSS, Material UI, Bootstrap  
+
+### ⚙️ Backend  
+- .NET Core, NestJS, Node.js  
+- REST APIs, Microservices, WebSockets  
+
+### 🗄 Databases  
+- PostgreSQL, MySQL, MongoDB  
+- Firebase, SQL Server  
+
+### ☁️ Cloud & DevOps  
+- AWS (EC2, S3, Lambda, RDS, CloudFront)  
+- Docker, CI/CD (GitHub Actions)  
+- Nginx, PM2  
+
+---
+
+## 🔥 Key Expertise  
+
+- 🧠 System Design & Scalable Architecture  
+- ⚡ Real-time Applications (WebRTC, Live Streaming)  
+- 🤖 AI Integrations (Chatbots, OCR, Voice Assistants)  
+- 🔐 Authentication & Security (JWT, OAuth, RBAC)  
+- 📊 High-performance APIs & Database Optimization  
 
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=radical)
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-kaklotar/  
+- 🌍 Portfolio: https://rakesh.kaklotar.com/  
+- 📩 Open for: **Freelance | Remote Opportunities | SaaS Projects**  
+
+---
+
+## 🚀 Value I Bring  
+
+✔ Clean, scalable, production-ready code  
+✔ Fast execution with strong architecture decisions  
+✔ Business-focused solutions (not just coding)  
+✔ Proven experience with startups & enterprise systems  
 
