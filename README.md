@@ -9,11 +9,11 @@
 
 ## 🏆 Certifications  
 
-<a href="https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url" target="_blank">
+<a href="[https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url](https://www.credly.com/badges/6df6dc93-a453-4926-8aa7-0271f1580f44)" target="_blank">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 
-<a href="https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url" target="_blank">
+<a href="[https://www.credly.com/users/rakesh-kaklotar.b311503c0d53dc45517f/public_url](https://www.credly.com/badges/8d158d2b-05e6-4f13-812b-0d53dc45517f)" target="_blank">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 
