@@ -160,17 +160,18 @@ engineer = {
 
 ## GitHub Analytics
 
-> Refreshed automatically by GitHub Actions (`Update GitHub Stats`).
+> Metrics card + contribution snake refresh daily via GitHub Actions.  
+> Stats cards use [github-stats-extended](https://github.com/stats-organization/github-stats-extended) (the old `github-readme-stats.vercel.app` host is paused).
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rakesh69/Rakesh69/main/github-metrics.svg?v=2" alt="GitHub metrics" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Rakesh69&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 </div>
 
 <br/>
@@ -182,21 +183,11 @@ engineer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh69&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakesh69/Rakesh69/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakesh69/Rakesh69/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rakesh69/Rakesh69/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rakesh69/Rakesh69/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </div>
 
 ---
