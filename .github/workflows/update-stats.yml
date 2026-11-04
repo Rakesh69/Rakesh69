@@ -52,9 +52,8 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # Achievements disabled — plugin often fails with "Unexpected error"
+          plugin_achievements: no
 
   snake:
     name: Generate contribution snake

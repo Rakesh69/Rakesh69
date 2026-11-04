@@ -4,10 +4,8 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Rakesh Kaklotar — Senior Full Stack Engineer | AI Systems | Cloud Architecture" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,50:0D1524,100:0A1628&height=180&section=header&text=Rakesh%20Kaklotar&fontSize=42&fontColor=F0F6FC&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20%7C%20Python%20%7C%20Cloud&descAlignY=55&descSize=16&animation=fadeIn" alt="Rakesh Kaklotar"/>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://rakesh.kaklotar.com/">
@@ -27,17 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=40&lines=Building+AI-powered+SaaS+%26+cloud-native+systems;Python+%7C+RAG+%7C+LLM+Agents+%7C+FastAPI;React+%7C+Next.js+%7C+NestJS+%7C+.NET+%7C+AWS;Architecture+%E2%86%92+Delivery+%E2%86%92+Production+Scale" alt="Typing headline"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakesh69&label=Profile%20views&color=0D1117&style=flat-square" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-161B22?style=flat-square&labelColor=0D1117" alt="Experience"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Python%20%7C%20Cloud%20SaaS-161B22?style=flat-square&labelColor=0D1117" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Contract%20%7C%20Full--time-161B22?style=flat-square&labelColor=0D1117" alt="Open to"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=28&lines=AI-powered+SaaS+%26+cloud-native+systems;Python+%7C+RAG+%7C+LLM+Agents+%7C+FastAPI;React+%7C+Next.js+%7C+NestJS+%7C+.NET+%7C+AWS" alt="Typing headline"/>
 </div>
 
 ---
@@ -312,12 +300,4 @@ If you're building an **AI platform, Python service layer, SaaS product, or scal
   <a href="https://www.linkedin.com/in/rakesh-kaklotar/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer&text=Build.%20Scale.%20Automate.&fontSize=24&fontColor=58A6FF&fontAlignY=65" alt="Build. Scale. Automate."/>
-  <br/>
-  <i>Turning complex engineering problems into reliable production systems.</i>
 </div>
