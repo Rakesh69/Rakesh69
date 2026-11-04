@@ -25,8 +25,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Create a classic PAT and store it as METRICS_TOKEN
-          # (Settings → Secrets and variables → Actions)
+          # Requires repo secret METRICS_TOKEN (classic PAT — no scopes needed for public stats)
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rakesh69
           template: classic
@@ -37,7 +36,6 @@ jobs:
 
           config_timezone: Asia/Kolkata
           config_display: large
-          config_theme: dark
 
           base: header, activity, community, repositories
           base_indepth: yes
