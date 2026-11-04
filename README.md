@@ -1,131 +1,167 @@
 <!--
   Profile README — Rakesh Kaklotar
-  Stats are refreshed daily by .github/workflows/update-stats.yml
+  Stats refresh daily via .github/workflows/update-stats.yml
 -->
 
 <div align="center">
-
-# Rakesh Kaklotar
-
-**Senior Full Stack Engineer · AI Systems · Cloud Architecture**  
-AWS Certified · 10+ Years Shipping Production Software
-
-[Portfolio](https://rakesh.kaklotar.com/) · [LinkedIn](https://www.linkedin.com/in/rakesh-kaklotar/) · [Credly](https://www.credly.com/users/rakesh-kaklotar.b311503c/public_url)
+  <img src="./assets/banner.svg" alt="Rakesh Kaklotar — Senior Full Stack Engineer | AI Systems | Cloud Architecture" width="100%"/>
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rakesh69&style=flat-square&color=0d1117" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Open_to-Remote%20%7C%20Contract%20%7C%20Full--time-111111?style=flat-square" alt="Open to opportunities"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Python%20%7C%20Cloud%20SaaS-111111?style=flat-square" alt="Focus"/>
+<div align="center">
+  <a href="https://rakesh.kaklotar.com/">
+    <img src="https://img.shields.io/badge/Portfolio-rakesh.kaklotar.com-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=58A6FF" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-kaklotar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20Kaklotar-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.credly.com/users/rakesh-kaklotar.b311503c/public_url">
+    <img src="https://img.shields.io/badge/Credly-AWS%20Certified-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="Credly"/>
+  </a>
+  <a href="https://github.com/Rakesh69">
+    <img src="https://img.shields.io/badge/GitHub-Rakesh69-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=40&lines=Building+AI-powered+SaaS+%26+cloud-native+systems;Python+%7C+RAG+%7C+LLM+Agents+%7C+FastAPI;React+%7C+Next.js+%7C+NestJS+%7C+.NET+%7C+AWS;Architecture+%E2%86%92+Delivery+%E2%86%92+Production+Scale" alt="Typing headline"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakesh69&label=Profile%20views&color=0D1117&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-161B22?style=flat-square&labelColor=0D1117" alt="Experience"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Python%20%7C%20Cloud%20SaaS-161B22?style=flat-square&labelColor=0D1117" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Contract%20%7C%20Full--time-161B22?style=flat-square&labelColor=0D1117" alt="Open to"/>
 </div>
 
 ---
 
-## About
+## About Me
 
-I design and deliver **scalable SaaS products, AI-powered platforms, and cloud-native systems** — from architecture through production.
+I design and ship **scalable SaaS products, AI-powered platforms, and cloud-native systems** — from architecture to production.
 
-Over **10+ years**, I’ve worked across the full stack: frontend architecture, backend services, data layers, cloud infrastructure, CI/CD, and system design. Recently I’ve been investing deeply in **AI engineering with Python** — LLM apps, RAG pipelines, agents, and automation that ship to real users.
+With **10+ years** across the full stack, I work end-to-end: frontend architecture, backend services, data layers, cloud infrastructure, CI/CD, and system design. My current edge is **AI engineering with Python** — LLM applications, RAG pipelines, agents, and automation that real users depend on.
 
-I care about software that is performant, maintainable, secure, cost-aware, and aligned with business outcomes.
+```python
+engineer = {
+    "name": "Rakesh Kaklotar",
+    "role": "Senior Full Stack Engineer",
+    "focus": ["AI Systems", "Python", "Cloud Architecture", "SaaS"],
+    "strengths": [
+        "Production AI (RAG, Agents, LLM apps)",
+        "Full-stack product delivery",
+        "AWS architecture & DevOps",
+        "Real-time / communication systems",
+    ],
+    "principle": "Simple first. Scale when the business needs it.",
+}
+```
 
----
+<details>
+<summary><b>Quick snapshot</b></summary>
 
-## Focus Areas
+<br/>
 
-| Domain | What I build |
-| --- | --- |
-| **AI & Intelligent Systems** | LLM integrations, RAG, agents, voice AI, OCR / document intelligence, AI workflows |
-| **Python Engineering** | FastAPI services, AI/ML pipelines, data processing, automation, backend APIs |
-| **Full-Stack Products** | React / Next.js / Angular frontends with NestJS, Node.js, and .NET backends |
-| **Cloud & DevOps** | AWS & Azure architectures, Docker, CI/CD, serverless, production operations |
-| **Real-Time Systems** | WebSockets, WebRTC, collaboration, chat, notifications, live media |
+| | |
+| :--- | :--- |
+| **Core** | Full Stack · AI Engineering · Solution Architecture |
+| **AI / Python** | RAG · Agents · FastAPI · LLM integrations · Document intelligence |
+| **Product** | Multi-tenant SaaS · APIs · Payments · Real-time collaboration |
+| **Cloud** | AWS (SAA + CLF) · Azure · Docker · CI/CD · Serverless |
+| **Frontend** | React · Next.js · Angular · TypeScript |
+| **Backend** | Python · NestJS · Node.js · .NET / ASP.NET Core |
 
----
-
-## AI & Python
-
-Building production AI is more than calling an API. I design **reliable pipelines** with retrieval, tooling, evaluation, and operational guardrails.
-
-**Capabilities**
-- LLM application architecture (chat, copilots, assistants)
-- RAG systems — ingestion, chunking, embeddings, vector search, grounded answers
-- AI agents — tool use, memory, orchestration, and workflow automation
-- Voice AI, OCR, and document intelligence
-- Knowledge bases and AI-powered SaaS features
-- MCP / tooling integrations for agentic workflows
-
-**Python stack I work with**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+</details>
 
 ---
 
-## Technology Stack
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### AI & Intelligent Systems
+- LLM copilots, chat, and assistants
+- **RAG** — ingest → embed → retrieve → ground
+- **AI agents** — tools, memory, orchestration
+- Voice AI, OCR & document intelligence
+- Knowledge bases & AI SaaS features
+- MCP / agent tooling integrations
+
+</td>
+<td width="50%" valign="top">
+
+### Python Engineering
+- **FastAPI** services for AI & data workloads
+- AI/ML pipelines and automation
+- Embeddings, vector search, eval loops
+- Reliable APIs around LLM providers
+- Data processing with Pandas / NumPy
+- Production packaging with Docker
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Full-Stack Products
+- React / Next.js / Angular applications
+- NestJS · Node.js · ASP.NET Core APIs
+- Auth, RBAC, multi-tenant SaaS
+- PostgreSQL · MongoDB · Redis · SQL Server
+- Payment & third-party integrations
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud, DevOps & Real-Time
+- AWS & Azure architectures
+- Docker · GitHub Actions · Nginx
+- Serverless & deployment automation
+- WebSockets · WebRTC · live systems
+- Observability, cost & performance
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages & AI
+<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,nodejs,ts,cs,dotnet&perline=8" alt="Languages and AI"/>
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,mui,html,css&perline=8" alt="Frontend"/>
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-</p>
-
-### Data
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=nestjs,express,postgres,mysql,mongodb,redis,prisma,graphql&perline=8" alt="Backend and Data"/>
 
 ### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,nginx,linux,git,vercel&perline=8" alt="Cloud and DevOps"/>
 
-### Integrations
-Stripe · PayPal · Braintree · Razorpay · Cashfree · Twilio · Google Maps · Algolia · Contentful · Strapi
+</div>
+
+<br/>
+
+**Also fluent with:** LangChain · Hugging Face · Vector search · Stripe · PayPal · Razorpay · Braintree · Cashfree · Twilio · Firebase · Algolia · Contentful · Strapi · WebSockets · WebRTC
 
 ---
 
 ## GitHub Analytics
 
-> Auto-updated daily by GitHub Actions (`Update GitHub Stats` workflow).
+> Refreshed automatically by GitHub Actions (`Update GitHub Stats`).
 
-<!-- Metrics SVG generated by lowlighter/metrics — appears after first successful workflow run -->
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
 </div>
@@ -133,14 +169,20 @@ Stripe · PayPal · Braintree · Razorpay · Cashfree · Twilio · Google Maps �
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakesh69&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakesh69&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh69&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakesh69&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rakesh69&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh69&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%"/>
 </div>
 
 <br/>
@@ -153,96 +195,138 @@ Stripe · PayPal · Braintree · Razorpay · Cashfree · Twilio · Google Maps �
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh69&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+</div>
+
 ---
 
 ## Certifications
 
-<p>
+<div align="center">
   <a href="https://www.credly.com/badges/6df6dc93-a453-4926-8aa7-0271f1580f44">
-    <img src="./aws-cloud-practitioner.png" width="140" alt="AWS Cloud Practitioner"/>
+    <img src="./aws-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8d158d2b-05e6-4f13-812b-0d53dc45517f">
-    <img src="./aws-saa.png" width="140" alt="AWS Solutions Architect Associate"/>
+    <img src="./aws-saa.png" width="150" alt="AWS Certified Solutions Architect Associate"/>
   </a>
-</p>
+</div>
 
-| Certification | Focus |
-| --- | --- |
-| **AWS Certified Solutions Architect – Associate** | Scalable, secure, cost-effective AWS architectures |
-| **AWS Certified Cloud Practitioner** | Cloud fundamentals, security, architecture, and pricing |
+<br/>
 
-[View all badges on Credly →](https://www.credly.com/users/rakesh-kaklotar.b311503c/public_url)
+| Badge | Certification | Focus |
+| :---: | :--- | :--- |
+| **SAA** | AWS Certified Solutions Architect – Associate | Scalable, secure, cost-aware AWS architectures |
+| **CLF** | AWS Certified Cloud Practitioner | Cloud fundamentals, security, architecture & pricing |
+
+<div align="center">
+  <a href="https://www.credly.com/users/rakesh-kaklotar.b311503c/public_url">
+    <img src="https://img.shields.io/badge/View_all_on_Credly-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="View Credly"/>
+  </a>
+</div>
 
 ---
 
 ## Featured Work
 
-Production-oriented work across **AI, Python services, SaaS, cloud, and real-time systems**.
+Production-oriented systems across **AI, Python, SaaS, cloud, and real-time communication**.
 
-### AI & Python
-- **AI SaaS Platform** — Multi-tenant AI product architecture
-- **RAG Platform** — Document ingestion, embeddings, retrieval, grounded LLM answers
-- **AI Agent Platform** — Agent orchestration, tools, memory, and automation
-- **Python API Services** — FastAPI backends for AI and data workloads
-
-### Product & Architecture
-- **SaaS Starter** — Production foundation for modern SaaS applications
-- **NestJS / .NET Microservices** — Distributed backend architectures
-- **Payment Service** — Provider abstraction across Stripe, PayPal, Razorpay, and more
-- **System Design Examples** — Practical patterns for scale and reliability
-
-### Real-Time & Cloud
-- **Real-Time Collaboration** — WebSockets and collaborative app architecture
-- **WebRTC Video Platform** — Live audio/video communication
-- **AWS Serverless Platform** — Event-driven cloud architecture
-- **Observability Platform** — Logging, monitoring, and operational visibility
+<table>
+  <tr>
+    <th align="left">Domain</th>
+    <th align="left">Project</th>
+    <th align="left">Highlight</th>
+  </tr>
+  <tr>
+    <td><b>AI / Python</b></td>
+    <td>AI SaaS Platform</td>
+    <td>Multi-tenant AI product architecture</td>
+  </tr>
+  <tr>
+    <td><b>AI / Python</b></td>
+    <td>RAG Platform</td>
+    <td>Ingestion, embeddings, retrieval, grounded answers</td>
+  </tr>
+  <tr>
+    <td><b>AI / Python</b></td>
+    <td>AI Agent Platform</td>
+    <td>Tool use, memory, orchestration & automation</td>
+  </tr>
+  <tr>
+    <td><b>AI / Python</b></td>
+    <td>Python API Services</td>
+    <td>FastAPI backends for AI & data workloads</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>SaaS Starter</td>
+    <td>Production foundation for modern SaaS</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>NestJS / .NET Microservices</td>
+    <td>Distributed backend patterns</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Payment Service</td>
+    <td>Stripe · PayPal · Razorpay · more</td>
+  </tr>
+  <tr>
+    <td><b>Real-Time</b></td>
+    <td>Collaboration / WebRTC</td>
+    <td>Live collaboration & media systems</td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS Serverless + Observability</td>
+    <td>Event-driven cloud & production visibility</td>
+  </tr>
+</table>
 
 ---
 
-## Engineering Approach
+## How I Work
 
-> Build the simplest solution that works. Scale when the business requires it.
-
-**End-to-end ownership**
+> **Build the simplest solution that works. Scale when the business requires it.**
 
 ```text
-Requirements → Architecture → Data & APIs → Frontend → Backend
-     → AI / Integrations → Quality → Cloud Deploy → Observability
+Requirements → Architecture → Data & APIs → Frontend / Backend
+        → AI & Integrations → Quality → Cloud Deploy → Observability
 ```
 
-**What I optimize for**
-- Clear system design and sensible trade-offs
-- Performance, security, and maintainability
-- Cloud cost awareness
-- Developer experience and long-term operability
-- Business impact over technology theater
+| Optimize for | Meaning in practice |
+| :--- | :--- |
+| **Clarity** | Right architecture and trade-offs, not tool theater |
+| **Reliability** | Secure, maintainable, production-ready delivery |
+| **Performance** | APIs, databases, frontend, and cloud cost |
+| **Ownership** | Idea → architecture → ship → operate |
 
 ---
 
-## Open to Opportunities
+## Let's Work Together
 
-Interested in roles and engagements around:
+I'm open to:
 
-- Senior Full Stack / AI Engineering
-- Python & AI platform development
-- Cloud / AWS architecture
-- Solution architecture & technical leadership
-- SaaS product engineering
-- Remote freelance and contract work
+`Senior Full Stack` · `AI Engineering` · `Python Platforms` · `Cloud / AWS` · `Solution Architecture` · `Tech Lead` · `SaaS Products` · `Remote Contract / Freelance`
 
-If you’re building an **AI platform, Python service layer, SaaS product, or scalable cloud system**, let’s talk.
+If you're building an **AI platform, Python service layer, SaaS product, or scalable cloud system** — let's connect.
+
+<div align="center">
+  <br/>
+  <a href="https://rakesh.kaklotar.com/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-kaklotar/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-
-**Build. Scale. Automate.**
-
-*Turning complex engineering problems into reliable production systems.*
-
-<br/>
-
-[rakesh.kaklotar.com](https://rakesh.kaklotar.com/) · [LinkedIn](https://www.linkedin.com/in/rakesh-kaklotar/) · [GitHub](https://github.com/Rakesh69)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer&text=Build.%20Scale.%20Automate.&fontSize=24&fontColor=58A6FF&fontAlignY=65" alt="Build. Scale. Automate."/>
+  <br/>
+  <i>Turning complex engineering problems into reliable production systems.</i>
 </div>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Rakesh Kaklotar  Senior Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="45%" stop-color="#0D1524"/>
+      <stop offset="100%" stop-color="#0A1628"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#58A6FF"/>
+      <stop offset="65%" stop-color="#3FB950"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#79C0FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="35%" r="40%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2A3A" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.45"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- subtle circuit arcs -->
+  <path d="M860 40 C960 80, 1040 120, 1120 70" fill="none" stroke="#233044" stroke-width="1.5"/>
+  <path d="M900 280 C980 230, 1060 250, 1140 210" fill="none" stroke="#233044" stroke-width="1.5"/>
+  <circle cx="1120" cy="70" r="4" fill="#58A6FF" opacity="0.8"/>
+  <circle cx="1140" cy="210" r="4" fill="#3FB950" opacity="0.8"/>
+
+  <text x="72" y="108" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4">
+    SENIOR FULL STACK ENGINEER
+  </text>
+
+  <text x="72" y="168" fill="#F0F6FC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">
+    Rakesh Kaklotar
+  </text>
+
+  <rect x="72" y="188" width="220" height="3" rx="2" fill="url(#line)"/>
+
+  <text x="72" y="230" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">
+    AI Systems  ·  Python  ·  Cloud Architecture
+  </text>
+
+  <text x="72" y="268" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">
+    AWS Certified  ·  10+ Years Shipping Production Software
+  </text>
+
+  <!-- right-side mark -->
+  <g transform="translate(980,90)">
+    <rect x="0" y="0" width="120" height="120" rx="28" fill="#111827" stroke="#30363D" stroke-width="2"/>
+    <text x="60" y="78" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">RK</text>
+  </g>
+</svg>
