@@ -152,7 +152,7 @@ engineer = {
 > Stats cards use [github-stats-extended](https://github.com/stats-organization/github-stats-extended) (the old `github-readme-stats.vercel.app` host is paused).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rakesh69/Rakesh69/main/github-metrics.svg?v=2" alt="GitHub metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rakesh69/Rakesh69/main/github-metrics.svg?v=3" alt="GitHub metrics" width="100%"/>
 </div>
 
 <br/>
